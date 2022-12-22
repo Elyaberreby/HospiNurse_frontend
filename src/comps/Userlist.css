@@ -1,0 +1,21 @@
+
+
+.text_userlist{
+    color: blue;
+    font-size: 55px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}  
+
+.users{
+    border-bottom: 4px solid black;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+p{
+    text-align: center;
+   
+}

@@ -1,0 +1,62 @@
+
+.container_Callspatient{
+  width: 100%;
+  height: 577px;
+  background-image: url("/public/patient.jpeg");
+  background-size: 100% 100%;
+    text-align: center;
+    font-size: 22px;
+    }
+    
+    .container_Callspatient h2{
+     text-align: center;
+    }
+    .wrapper_Callspatient{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    background: whitesmoke;
+    height: 55px;
+    width: 100%;
+    }
+    
+    
+
+
+    .button_onee{
+      background:teal;
+      margin-top: 15PX;
+      color: white;
+      width:40%;
+      margin-left: 30%;
+      height: 6%;
+     }
+    
+
+
+
+    .container-imgs{
+        border-radius: 150px;
+        align-items: center;
+        height: 50px;
+        width: 50px;
+        margin-left: 50%;
+      }
+      .S-profile{
+        background-color: rgb(223,221,223);
+        height: 50px;
+        width: 50px;
+        margin-left: 30%;
+        border-radius: 130px;
+        margin-top: 5%;
+        border: 2px solid black;
+      }
+
+      .wrapper_Callspatient .Back{
+        margin-left: 75%;
+         font-size: 19px;
+         color: black;
+      }
+
+  
